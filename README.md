@@ -2,7 +2,7 @@
 
 A small Flask web app powered by the OpenAI API. Ask it anything, or paste an email and get a short summary.
 
-### 🌐 Live Demo: *add your deployed link here after deploying*
+### 🌐 Live Demo: https://aiassistant-main.vercel.app
 
 ---
 
