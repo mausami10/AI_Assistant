@@ -6,7 +6,7 @@ from openai import OpenAI
  
 load_dotenv()
  
-app = Flask(__name__)
+app = app = Flask(__name__, static_folder="public", static_url_path="")
  
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
